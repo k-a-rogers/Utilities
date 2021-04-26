@@ -1,2 +1,2 @@
 # Utilities
- A collection of utility & helper scripts
+A place to store utilities and helper scripts I've written.
